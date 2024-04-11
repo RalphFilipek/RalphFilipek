@@ -15,7 +15,7 @@
 
  🔨 I'm currently working on **Crypto Show Product&Event Website**
  
- 📚 I'm currently study **JS, Java, Python**
+ 📚 I'm currently studying **JS, Java, Python**
 
  👨‍🎤 Big fan of **Tech&GameDev**
 
