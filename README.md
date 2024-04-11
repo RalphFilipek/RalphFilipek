@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RalphFilipek.RalphFilipek" />
 
-<!--
-**RalphFilipek/RalphFilipek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=24&duration=4000&pause=1000&color=3692F7&background=369F9A00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Ralph.+👋;Junior+Software+Engineer+🧑‍💻" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+  <h3 align="center"> “The world you desire can be won. It exists.. it is real.. it is possible.. it's yours.” ― Ayn Rand, Atlas Shrugged.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+ <div align="center">
+
+   
