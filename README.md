@@ -7,17 +7,17 @@
 
 </h1>
 
-  <h3 align="center"> “The world you desire can be won. It exists.. it is real.. it is possible.. it's yours.” ― Ayn Rand, Atlas Shrugged.</h3>
+  <h3 align="center"> "If a man has not discovered something he will die for, he's not fit to live". ― Martin Luther King Jr</h3>
 
   <br/>
 
  <div align="center">
 
- 🔨 I'm currently working on **Crypto Show Product&Event Website**
+ 🔨 I'm currently working on AI Local
  
- 📚 I'm currently studying **JS, Java, Python**
+ 📚 I'm currently studying how to survive in the real world. 
 
- 👨‍🎤 Big fan of **Tech&GameDev**
+ 👨‍🎤 Big fan of **AI&GameDev**
 
  </div>
 
