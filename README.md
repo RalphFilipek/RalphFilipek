@@ -13,7 +13,7 @@
 
  <div align="center">
 
- 🔨 I'm currently working on AI Local
+ 🔨 I'm currently working on Projects to dive into GameDev
  
  📚 I'm currently studying how to survive in the real world. 
 
